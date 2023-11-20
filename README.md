@@ -1,4 +1,6 @@
-# Aprenda Kotlin Com Exemplos: Desafio de Projeto (Lab)
+# Desafio de Programação
+
+## Aprenda Kotlin Com Exemplos: Desafio de Projeto (Lab)
 
 Desafio de Projeto criado para avaliação do conteúdo técnico explorado no repositório [aprenda-kotlin-com-exemplos](https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos). **Nesse contexto, iremos abstrair o seguinte domínio de aplicação:**
 
@@ -8,3 +10,12 @@ Desafio de Projeto criado para avaliação do conteúdo técnico explorado no re
 ```kotlin
 TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.kt] te ajudará 😉")
 ```
+
+
+### Redes Sociais
+
+- [Instagram](https://www.instagram.com/willtubetech/)
+- [Twitter](https://twitter.com/ElesbaoWilliam)
+- [YouTube](https://www.youtube.com/@willtubetech)
+- [GitHub](https://github.com/WilliamElesbao)
+
